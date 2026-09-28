@@ -1,0 +1,6 @@
+@FlooInsurance.AuthGateway.API_HostAddress = http://localhost:5165
+
+GET {{FlooInsurance.AuthGateway.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
